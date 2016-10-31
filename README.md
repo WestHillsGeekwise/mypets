@@ -29,7 +29,7 @@ Overview - Project 1
 1. From within the projects folder run: $ **express mypets** (this will create a mypets folder, node_modules folder, and package.json file)
 2. Move into the /mypets folder: $ **cd mypets **
 3. Install dependencies: $ **npm install**
-4. Test the app by entering  $ **DEBUG=mypets:* npm start **in the terminal and then navigating to localhost:3000 in the browser
+4. Test the app by entering  $ **DEBUG=mypets:* npm start** in the terminal and then navigating to localhost:3000 in the browser
 5. Launch atom, open /mypets folder
 6. Edit the layout.jade file (in the /views folder) so that it includes all the default stuff you should have for every page (like bootstrap, navigation, etc)
 7. Edit the index.jade file (in the /views folder) so that it accurately displays the home page of the pet store site (refer to the pet store site you previously built for reference). Remember to add the style.css file to the /stylesheets folder (inside the /public folder) 
